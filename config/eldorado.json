@@ -1,0 +1,42 @@
+{
+    "url": "https://eldorado.ua/uk/smartphones/c1038946/producer=apple/",
+    "button_selector": "button[class*=\"StyledCatalogOutputstyled__StyledLoadMoreButton\"]",
+    "container": {
+        "name": "all_items_nodes",
+        "selector": "div[class*=\"TileRenderstyled__StyledCollectionList\"] article[class*=\"OfferTilestyled__StyledArticle\"]",
+        "match": "all",
+        "type": "node"
+    },
+    "item_attributes": [
+        {
+            "name": "title",
+            "selector": "a[class*=\"GoodsDescriptionstyled__StyledLinkWrapper\"] > span[class*=\"GoodsDescriptionstyled__StyledTypography\"]",
+            "match": "first",
+            "type": "text"
+        },
+        {
+            "name": "current_price",
+            "selector": "div[id*=\"tileBlockFooter\"] span[class*=\"ui-library-subtitle1Bold\"]",
+            "match": "first",
+            "type": "text"
+        },
+        {
+            "name": "currency",
+            "selector": "div[id*=\"tileBlockFooter\"] span[class*=\"Pricestyled__StyledCurrentCurrency\"]",
+            "match": "first",
+            "type": "text"
+        },
+        {
+            "name": "link",
+            "selector": "a[class*=\"GoodsDescriptionstyled__StyledLinkWrapper\"]",
+            "match": "first",
+            "type": "node"
+        },
+        {
+            "name": "availability",
+            "selector": "p[class*=\"TileBlockstyled__StyledGoodsSellStatus\"]",
+            "match": "first",
+            "type": "text"
+        }
+    ]
+}

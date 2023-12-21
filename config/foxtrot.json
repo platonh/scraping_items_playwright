@@ -1,0 +1,40 @@
+{
+    "url": "https://www.foxtrot.com.ua/uk/shop/odessa/mobilnye_telefony_apple.html",
+    "button_selector": "div[class*=\"card card-more\"]",
+    "container": {
+        "name": "all_items_nodes",
+        "selector": "div[class*=\"listing__body-wrap image-switch\"] div[class*=\"card js-card sc-product\"]",
+        "match": "all",
+        "type": "node"
+    },
+    "popup": {
+        "selector": "div[class*=\"popup user-location-popup first-visit popup_active\"]",
+        "close_button": "div[class*=\"popup user-location-popup first-visit popup_active\"] div[class*=\"popup__close\"]"
+    },
+    "item_attributes": [
+        {
+            "name": "title",
+            "selector": "div[class*=\"card__body\"] > a[class*=\"card__title\"]",
+            "match": "first",
+            "type": "text"
+        },
+        {
+            "name": "current_price",
+            "selector": "div[class*=\"card__body\"] > div[class*=\"card__col-price\"] > div[class*=\"card__price\"] > div[class*=\"card__price-wrap\"] > div[class=\"card-price\"]",
+            "match": "first",
+            "type": "text"
+        },
+        {
+            "name": "currency",
+            "selector": "div[class*=\"card__body\"] > div[class*=\"card__col-price\"] > div[class*=\"card__price\"] div[class*=\"card__price\"]",
+            "match": "first",
+            "type": "text"
+        },
+        {
+            "name": "link",
+            "selector": "div[class*=\"card__body\"] > a[class*=\"card__title\"]",
+            "match": "first",
+            "type": "node"
+        }
+    ]
+}

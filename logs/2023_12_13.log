@@ -1,0 +1,463 @@
+config.logging_config 2023-12-13 16:33:03,694 INFO Heading to https://www.foxtrot.com.ua/uk/shop/mobilnye_telefony_apple.html
+config.logging_config 2023-12-13 16:33:05,419 INFO Status code: 200
+config.logging_config 2023-12-13 16:33:16,347 WARNING 'Load more' button is not visible. Proceeding.
+config.logging_config 2023-12-13 16:33:16,450 INFO Headless browser was closed.
+config.logging_config 2023-12-13 16:33:16,461 INFO Amount of items parsed: 0
+config.logging_config 2023-12-13 16:34:19,086 INFO Heading to https://www.foxtrot.com.ua/uk/shop/mobilnye_telefony_apple.html
+config.logging_config 2023-12-13 16:34:21,414 INFO Status code: 200
+config.logging_config 2023-12-13 16:34:31,519 WARNING 'Load more' button is not visible. Proceeding.
+config.logging_config 2023-12-13 16:34:32,658 INFO Headless browser was closed.
+config.logging_config 2023-12-13 16:34:32,668 INFO Amount of items parsed: 0
+config.logging_config 2023-12-13 16:35:20,903 INFO Heading to https://www.foxtrot.com.ua/uk/shop/odessa/mobilnye_telefony_apple.html
+config.logging_config 2023-12-13 16:35:22,248 INFO Status code: 200
+config.logging_config 2023-12-13 16:35:29,602 WARNING 'Load more' button is not visible. Proceeding.
+config.logging_config 2023-12-13 16:35:30,764 INFO Headless browser was closed.
+config.logging_config 2023-12-13 16:35:30,776 INFO Amount of items parsed: 0
+config.logging_config 2023-12-13 16:38:57,421 INFO Heading to https://www.foxtrot.com.ua/uk/shop/odessa/mobilnye_telefony_apple.html
+config.logging_config 2023-12-13 16:38:58,891 INFO Status code: 200
+config.logging_config 2023-12-13 16:39:06,539 WARNING 'Load more' button is not visible. Proceeding.
+config.logging_config 2023-12-13 16:39:07,669 INFO Headless browser was closed.
+config.logging_config 2023-12-13 16:39:07,680 INFO Amount of items parsed: 0
+config.logging_config 2023-12-13 16:41:24,193 INFO Heading to https://www.foxtrot.com.ua/uk/shop/odessa/mobilnye_telefony_apple.html
+config.logging_config 2023-12-13 16:41:26,079 INFO Status code: 200
+config.logging_config 2023-12-13 16:41:34,966 WARNING 'Load more' button is not visible. Proceeding.
+config.logging_config 2023-12-13 16:41:36,332 INFO Headless browser was closed.
+config.logging_config 2023-12-13 16:41:36,347 INFO Amount of items parsed: 0
+config.logging_config 2023-12-13 17:15:17,838 INFO Heading to https://www.foxtrot.com.ua/uk/shop/odessa/mobilnye_telefony_apple.html
+config.logging_config 2023-12-13 17:15:19,320 INFO Status code: 200
+config.logging_config 2023-12-13 17:16:57,430 INFO Heading to https://www.foxtrot.com.ua/uk/shop/odessa/mobilnye_telefony_apple.html
+config.logging_config 2023-12-13 17:16:59,793 INFO Status code: 200
+config.logging_config 2023-12-13 17:19:37,528 INFO Heading to https://www.foxtrot.com.ua/uk/shop/odessa/mobilnye_telefony_apple.html
+config.logging_config 2023-12-13 17:19:38,730 INFO Status code: 200
+config.logging_config 2023-12-13 17:19:43,738 INFO Popup window is not visible. Proceeding.
+config.logging_config 2023-12-13 17:19:50,765 WARNING 'Load more' button is not visible. Proceeding.
+config.logging_config 2023-12-13 17:19:52,138 INFO Headless browser was closed.
+config.logging_config 2023-12-13 17:19:52,154 INFO Amount of items parsed: 0
+config.logging_config 2023-12-13 17:20:03,440 INFO Heading to https://www.foxtrot.com.ua/uk/shop/odessa/mobilnye_telefony_apple.html
+config.logging_config 2023-12-13 17:20:05,219 INFO Status code: 200
+config.logging_config 2023-12-13 17:22:21,146 INFO Heading to https://www.foxtrot.com.ua/uk/shop/odessa/mobilnye_telefony_apple.html
+config.logging_config 2023-12-13 17:22:22,524 INFO Status code: 200
+config.logging_config 2023-12-13 17:23:04,028 INFO Heading to https://www.foxtrot.com.ua/uk/shop/odessa/mobilnye_telefony_apple.html
+config.logging_config 2023-12-13 17:23:05,663 INFO Status code: 200
+config.logging_config 2023-12-13 17:23:13,120 WARNING 'Load more' button is not visible. Proceeding.
+config.logging_config 2023-12-13 17:23:14,227 INFO Headless browser was closed.
+config.logging_config 2023-12-13 17:23:14,240 INFO Amount of items parsed: 0
+config.logging_config 2023-12-13 17:27:26,373 INFO Heading to https://www.foxtrot.com.ua/uk/shop/odessa/mobilnye_telefony_apple.html
+config.logging_config 2023-12-13 17:27:27,909 INFO Status code: 200
+config.logging_config 2023-12-13 17:27:31,818 INFO 'Load more' button is clicked.
+config.logging_config 2023-12-13 17:27:34,952 INFO 'Load more' button is clicked.
+config.logging_config 2023-12-13 17:27:40,963 WARNING 'Load more' button is not visible. Proceeding.
+config.logging_config 2023-12-13 17:27:43,256 INFO Headless browser was closed.
+config.logging_config 2023-12-13 17:27:43,276 INFO Amount of items parsed: 0
+config.logging_config 2023-12-13 17:30:50,020 INFO Heading to https://www.foxtrot.com.ua/uk/shop/odessa/mobilnye_telefony_apple.html
+config.logging_config 2023-12-13 17:30:51,332 INFO Status code: 200
+config.logging_config 2023-12-13 17:30:54,828 INFO 'Load more' button is clicked.
+config.logging_config 2023-12-13 17:30:57,951 INFO 'Load more' button is clicked.
+config.logging_config 2023-12-13 17:31:04,966 WARNING 'Load more' button is not visible. Proceeding.
+config.logging_config 2023-12-13 17:31:07,257 INFO Headless browser was closed.
+config.logging_config 2023-12-13 17:31:07,276 INFO Amount of items parsed: 112
+config.logging_config 2023-12-13 17:31:07,279 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Deep Purple
+config.logging_config 2023-12-13 17:31:07,279 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Purple
+config.logging_config 2023-12-13 17:31:07,280 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Gold
+config.logging_config 2023-12-13 17:31:07,280 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Midnight
+config.logging_config 2023-12-13 17:31:07,280 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Deep Purple
+config.logging_config 2023-12-13 17:31:07,281 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Midnight
+config.logging_config 2023-12-13 17:31:07,281 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Purple (APPLE_NEW2022_004)
+config.logging_config 2023-12-13 17:31:07,281 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Starlight
+config.logging_config 2023-12-13 17:31:07,281 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Blue
+config.logging_config 2023-12-13 17:31:07,281 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Blue
+config.logging_config 2023-12-13 17:31:07,281 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Space Black
+config.logging_config 2023-12-13 17:31:07,281 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Gold
+config.logging_config 2023-12-13 17:31:07,282 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Space Black
+config.logging_config 2023-12-13 17:31:07,282 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Deep Purple (APPLE_NEW2022_051)
+config.logging_config 2023-12-13 17:31:07,282 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Blue
+config.logging_config 2023-12-13 17:31:07,282 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Blue
+config.logging_config 2023-12-13 17:31:07,282 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Starlight
+config.logging_config 2023-12-13 17:31:07,282 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Starlight
+config.logging_config 2023-12-13 17:31:07,283 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Starlight
+config.logging_config 2023-12-13 17:31:07,283 WARNING No matches to `model_number_pattern` in `title_copy`. Title: (PRODUCT) RED
+config.logging_config 2023-12-13 17:31:07,283 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Purple
+config.logging_config 2023-12-13 17:31:07,283 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Deep Purple
+config.logging_config 2023-12-13 17:31:07,283 WARNING No matches to `model_number_pattern` in `title_copy`. Title: (PRODUCT) RED
+config.logging_config 2023-12-13 17:31:07,283 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Gold (APPLE_NEW2022_049)
+config.logging_config 2023-12-13 17:31:07,283 WARNING No matches to `model_number_pattern` in `title_copy`. Title: PRODUCT Red (APPLE_NEW2022_001)
+config.logging_config 2023-12-13 17:31:07,283 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Gold
+config.logging_config 2023-12-13 17:31:07,283 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Purple
+config.logging_config 2023-12-13 17:31:07,283 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Deep Purple (APPLE_NEW2022_042)
+config.logging_config 2023-12-13 17:31:07,284 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Deep Purple
+config.logging_config 2023-12-13 17:31:07,284 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Space Black
+config.logging_config 2023-12-13 17:31:07,284 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Gold (APPLE_NEW2022_044)
+config.logging_config 2023-12-13 17:31:07,284 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Gold
+config.logging_config 2023-12-13 17:31:07,284 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Space Black
+config.logging_config 2023-12-13 17:31:07,284 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Purple
+config.logging_config 2023-12-13 17:31:07,285 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Deep Purple
+config.logging_config 2023-12-13 17:31:07,285 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Midnight (APPLE_NEW2022_008)
+config.logging_config 2023-12-13 17:31:07,285 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Gold (APPLE_NEW2022_031)
+config.logging_config 2023-12-13 17:31:07,285 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Silver (APPLE_NEW2022_056)
+config.logging_config 2023-12-13 17:31:07,285 WARNING No matches to `model_number_pattern` in `title_copy`. Title: PRODUCT RED (APPLE_NEW2022_016)
+config.logging_config 2023-12-13 17:31:07,285 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Silver
+config.logging_config 2023-12-13 17:31:07,285 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Space Black
+config.logging_config 2023-12-13 17:31:07,285 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Blue
+config.logging_config 2023-12-13 17:31:07,286 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Yellow
+config.logging_config 2023-12-13 17:31:07,286 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Silver
+config.logging_config 2023-12-13 17:31:07,286 WARNING No matches to `model_number_pattern` in `title_copy`. Title: 2022  (PRODUCT) RED A2783
+config.logging_config 2023-12-13 17:31:07,286 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Yellow
+config.logging_config 2023-12-13 17:38:25,988 INFO Heading to https://www.foxtrot.com.ua/uk/shop/odessa/mobilnye_telefony_apple.html
+config.logging_config 2023-12-13 17:38:28,204 INFO Status code: 200
+config.logging_config 2023-12-13 17:38:31,900 INFO 'Load more' button is clicked.
+config.logging_config 2023-12-13 17:38:34,993 INFO 'Load more' button is clicked.
+config.logging_config 2023-12-13 17:38:41,009 WARNING 'Load more' button is not visible. Proceeding.
+config.logging_config 2023-12-13 17:38:43,239 INFO Headless browser was closed.
+config.logging_config 2023-12-13 17:38:43,259 INFO Amount of items parsed: 112
+config.logging_config 2023-12-13 17:38:43,262 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Deep Purple
+config.logging_config 2023-12-13 17:38:43,263 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Purple
+config.logging_config 2023-12-13 17:38:43,263 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Gold
+config.logging_config 2023-12-13 17:38:43,263 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Midnight
+config.logging_config 2023-12-13 17:38:43,263 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Midnight
+config.logging_config 2023-12-13 17:38:43,263 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Purple (APPLE_NEW2022_004)
+config.logging_config 2023-12-13 17:38:43,264 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Starlight
+config.logging_config 2023-12-13 17:38:43,264 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Blue
+config.logging_config 2023-12-13 17:38:43,264 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Blue
+config.logging_config 2023-12-13 17:38:43,264 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Space Black
+config.logging_config 2023-12-13 17:38:43,264 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Gold
+config.logging_config 2023-12-13 17:38:43,264 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Space Black
+config.logging_config 2023-12-13 17:38:43,265 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Starlight
+config.logging_config 2023-12-13 17:38:43,265 WARNING No matches to `model_number_pattern` in `title_copy`. Title: (PRODUCT) RED
+config.logging_config 2023-12-13 17:38:43,265 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Space Black
+config.logging_config 2023-12-13 17:38:43,265 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Deep Purple (APPLE_NEW2022_051)
+config.logging_config 2023-12-13 17:38:43,265 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Blue
+config.logging_config 2023-12-13 17:38:43,265 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Blue
+config.logging_config 2023-12-13 17:38:43,265 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Starlight
+config.logging_config 2023-12-13 17:38:43,266 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Starlight
+config.logging_config 2023-12-13 17:38:43,266 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Starlight
+config.logging_config 2023-12-13 17:38:43,266 WARNING No matches to `model_number_pattern` in `title_copy`. Title: (PRODUCT) RED
+config.logging_config 2023-12-13 17:38:43,266 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Purple
+config.logging_config 2023-12-13 17:38:43,266 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Deep Purple
+config.logging_config 2023-12-13 17:38:43,266 WARNING No matches to `model_number_pattern` in `title_copy`. Title: (PRODUCT) RED
+config.logging_config 2023-12-13 17:38:43,266 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Gold (APPLE_NEW2022_049)
+config.logging_config 2023-12-13 17:38:43,266 WARNING No matches to `model_number_pattern` in `title_copy`. Title: PRODUCT Red (APPLE_NEW2022_001)
+config.logging_config 2023-12-13 17:38:43,266 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Gold
+config.logging_config 2023-12-13 17:38:43,267 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Purple
+config.logging_config 2023-12-13 17:38:43,267 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Deep Purple (APPLE_NEW2022_042)
+config.logging_config 2023-12-13 17:38:43,267 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Deep Purple
+config.logging_config 2023-12-13 17:38:43,267 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Space Black
+config.logging_config 2023-12-13 17:38:43,268 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Gold (APPLE_NEW2022_044)
+config.logging_config 2023-12-13 17:38:43,268 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Gold
+config.logging_config 2023-12-13 17:38:43,268 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Space Black
+config.logging_config 2023-12-13 17:38:43,268 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Purple
+config.logging_config 2023-12-13 17:38:43,268 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Deep Purple
+config.logging_config 2023-12-13 17:38:43,268 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Midnight (APPLE_NEW2022_008)
+config.logging_config 2023-12-13 17:38:43,268 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Gold (APPLE_NEW2022_031)
+config.logging_config 2023-12-13 17:38:43,268 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Silver (APPLE_NEW2022_056)
+config.logging_config 2023-12-13 17:38:43,269 WARNING No matches to `model_number_pattern` in `title_copy`. Title: PRODUCT RED (APPLE_NEW2022_016)
+config.logging_config 2023-12-13 17:38:43,269 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Silver
+config.logging_config 2023-12-13 17:38:43,269 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Space Black
+config.logging_config 2023-12-13 17:38:43,269 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Blue
+config.logging_config 2023-12-13 17:38:43,269 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Yellow
+config.logging_config 2023-12-13 17:38:43,270 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Silver
+config.logging_config 2023-12-13 17:38:43,270 WARNING No matches to `model_number_pattern` in `title_copy`. Title: 2022  (PRODUCT) RED A2783
+config.logging_config 2023-12-13 17:38:43,270 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Yellow
+config.logging_config 2023-12-13 17:42:51,190 INFO Heading to https://www.foxtrot.com.ua/uk/shop/odessa/mobilnye_telefony_apple.html
+config.logging_config 2023-12-13 17:42:52,748 INFO Status code: 200
+config.logging_config 2023-12-13 17:42:56,305 INFO 'Load more' button is clicked.
+config.logging_config 2023-12-13 17:42:57,393 INFO 'Load more' button is clicked.
+config.logging_config 2023-12-13 17:43:01,162 INFO 'Load more' button is clicked.
+config.logging_config 2023-12-13 17:43:08,171 WARNING 'Load more' button is not visible. Proceeding.
+config.logging_config 2023-12-13 17:43:10,445 INFO Headless browser was closed.
+config.logging_config 2023-12-13 17:43:10,466 INFO Amount of items parsed: 112
+config.logging_config 2023-12-13 17:43:10,469 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Deep Purple
+config.logging_config 2023-12-13 17:43:10,469 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Purple
+config.logging_config 2023-12-13 17:43:10,469 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Gold
+config.logging_config 2023-12-13 17:43:10,469 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Midnight
+config.logging_config 2023-12-13 17:43:10,470 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Midnight
+config.logging_config 2023-12-13 17:43:10,470 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Purple (APPLE_NEW2022_004)
+config.logging_config 2023-12-13 17:43:10,470 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Starlight
+config.logging_config 2023-12-13 17:43:10,470 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Blue
+config.logging_config 2023-12-13 17:43:10,470 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Blue
+config.logging_config 2023-12-13 17:43:10,470 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Space Black
+config.logging_config 2023-12-13 17:43:10,470 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Gold
+config.logging_config 2023-12-13 17:43:10,470 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Space Black
+config.logging_config 2023-12-13 17:43:10,470 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Starlight
+config.logging_config 2023-12-13 17:43:10,471 WARNING No matches to `model_number_pattern` in `title_copy`. Title: (PRODUCT) RED
+config.logging_config 2023-12-13 17:43:10,471 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Space Black
+config.logging_config 2023-12-13 17:43:10,471 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Deep Purple (APPLE_NEW2022_051)
+config.logging_config 2023-12-13 17:43:10,471 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Blue
+config.logging_config 2023-12-13 17:43:10,471 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Blue
+config.logging_config 2023-12-13 17:43:10,471 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Starlight
+config.logging_config 2023-12-13 17:43:10,471 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Starlight
+config.logging_config 2023-12-13 17:43:10,471 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Starlight
+config.logging_config 2023-12-13 17:43:10,471 WARNING No matches to `model_number_pattern` in `title_copy`. Title: (PRODUCT) RED
+config.logging_config 2023-12-13 17:43:10,472 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Purple
+config.logging_config 2023-12-13 17:43:10,472 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Deep Purple
+config.logging_config 2023-12-13 17:43:10,472 WARNING No matches to `model_number_pattern` in `title_copy`. Title: (PRODUCT) RED
+config.logging_config 2023-12-13 17:43:10,472 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Gold (APPLE_NEW2022_049)
+config.logging_config 2023-12-13 17:43:10,472 WARNING No matches to `model_number_pattern` in `title_copy`. Title: PRODUCT Red (APPLE_NEW2022_001)
+config.logging_config 2023-12-13 17:43:10,472 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Gold
+config.logging_config 2023-12-13 17:43:10,472 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Purple
+config.logging_config 2023-12-13 17:43:10,472 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Deep Purple (APPLE_NEW2022_042)
+config.logging_config 2023-12-13 17:43:10,472 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Deep Purple
+config.logging_config 2023-12-13 17:43:10,473 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Space Black
+config.logging_config 2023-12-13 17:43:10,473 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Gold (APPLE_NEW2022_044)
+config.logging_config 2023-12-13 17:43:10,473 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Gold
+config.logging_config 2023-12-13 17:43:10,473 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Space Black
+config.logging_config 2023-12-13 17:43:10,473 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Purple
+config.logging_config 2023-12-13 17:43:10,473 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Deep Purple
+config.logging_config 2023-12-13 17:43:10,473 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Midnight (APPLE_NEW2022_008)
+config.logging_config 2023-12-13 17:43:10,474 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Gold (APPLE_NEW2022_031)
+config.logging_config 2023-12-13 17:43:10,474 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Silver (APPLE_NEW2022_056)
+config.logging_config 2023-12-13 17:43:10,474 WARNING No matches to `model_number_pattern` in `title_copy`. Title: PRODUCT RED (APPLE_NEW2022_016)
+config.logging_config 2023-12-13 17:43:10,474 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Silver
+config.logging_config 2023-12-13 17:43:10,474 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Space Black
+config.logging_config 2023-12-13 17:43:10,474 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Blue
+config.logging_config 2023-12-13 17:43:10,474 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Yellow
+config.logging_config 2023-12-13 17:43:10,475 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Silver
+config.logging_config 2023-12-13 17:43:10,475 WARNING No matches to `model_number_pattern` in `title_copy`. Title: 2022  (PRODUCT) RED A2783
+config.logging_config 2023-12-13 17:43:10,475 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Yellow
+config.logging_config 2023-12-13 17:46:07,814 INFO Heading to https://www.foxtrot.com.ua/uk/shop/odessa/mobilnye_telefony_apple.html
+config.logging_config 2023-12-13 17:46:09,575 INFO Status code: 200
+config.logging_config 2023-12-13 17:46:13,004 INFO 'Load more' button is clicked.
+config.logging_config 2023-12-13 17:46:16,100 INFO 'Load more' button is clicked.
+config.logging_config 2023-12-13 17:46:41,845 INFO 'Load more' button is clicked.
+config.logging_config 2023-12-13 17:46:43,951 INFO 'Load more' button is clicked.
+config.logging_config 2023-12-13 17:46:56,487 WARNING 'Load more' button is not visible. Proceeding.
+config.logging_config 2023-12-13 17:46:58,730 INFO Headless browser was closed.
+config.logging_config 2023-12-13 17:46:58,747 INFO Amount of items parsed: 112
+config.logging_config 2023-12-13 17:46:58,748 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Deep Purple
+config.logging_config 2023-12-13 17:46:58,749 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Purple
+config.logging_config 2023-12-13 17:46:58,749 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Gold
+config.logging_config 2023-12-13 17:46:58,749 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Midnight
+config.logging_config 2023-12-13 17:46:58,749 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Midnight
+config.logging_config 2023-12-13 17:46:58,749 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Purple (APPLE_NEW2022_004)
+config.logging_config 2023-12-13 17:46:58,750 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Starlight
+config.logging_config 2023-12-13 17:46:58,750 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Blue
+config.logging_config 2023-12-13 17:46:58,750 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Blue
+config.logging_config 2023-12-13 17:46:58,750 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Space Black
+config.logging_config 2023-12-13 17:46:58,750 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Gold
+config.logging_config 2023-12-13 17:46:58,750 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Space Black
+config.logging_config 2023-12-13 17:46:58,750 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Starlight
+config.logging_config 2023-12-13 17:46:58,750 WARNING No matches to `model_number_pattern` in `title_copy`. Title: (PRODUCT) RED
+config.logging_config 2023-12-13 17:46:58,750 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Space Black
+config.logging_config 2023-12-13 17:46:58,750 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Deep Purple (APPLE_NEW2022_051)
+config.logging_config 2023-12-13 17:46:58,751 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Blue
+config.logging_config 2023-12-13 17:46:58,751 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Blue
+config.logging_config 2023-12-13 17:46:58,751 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Starlight
+config.logging_config 2023-12-13 17:46:58,751 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Starlight
+config.logging_config 2023-12-13 17:46:58,751 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Starlight
+config.logging_config 2023-12-13 17:46:58,751 WARNING No matches to `model_number_pattern` in `title_copy`. Title: (PRODUCT) RED
+config.logging_config 2023-12-13 17:46:58,751 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Purple
+config.logging_config 2023-12-13 17:46:58,751 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Deep Purple
+config.logging_config 2023-12-13 17:46:58,752 WARNING No matches to `model_number_pattern` in `title_copy`. Title: (PRODUCT) RED
+config.logging_config 2023-12-13 17:46:58,752 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Gold (APPLE_NEW2022_049)
+config.logging_config 2023-12-13 17:46:58,752 WARNING No matches to `model_number_pattern` in `title_copy`. Title: PRODUCT Red (APPLE_NEW2022_001)
+config.logging_config 2023-12-13 17:46:58,752 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Gold
+config.logging_config 2023-12-13 17:46:58,752 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Purple
+config.logging_config 2023-12-13 17:46:58,752 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Deep Purple (APPLE_NEW2022_042)
+config.logging_config 2023-12-13 17:46:58,752 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Deep Purple
+config.logging_config 2023-12-13 17:46:58,753 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Space Black
+config.logging_config 2023-12-13 17:46:58,753 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Gold (APPLE_NEW2022_044)
+config.logging_config 2023-12-13 17:46:58,753 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Gold
+config.logging_config 2023-12-13 17:46:58,753 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Space Black
+config.logging_config 2023-12-13 17:46:58,753 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Purple
+config.logging_config 2023-12-13 17:46:58,753 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Deep Purple
+config.logging_config 2023-12-13 17:46:58,753 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Midnight (APPLE_NEW2022_008)
+config.logging_config 2023-12-13 17:46:58,753 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Gold (APPLE_NEW2022_031)
+config.logging_config 2023-12-13 17:46:58,753 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Silver (APPLE_NEW2022_056)
+config.logging_config 2023-12-13 17:46:58,754 WARNING No matches to `model_number_pattern` in `title_copy`. Title: PRODUCT RED (APPLE_NEW2022_016)
+config.logging_config 2023-12-13 17:46:58,754 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Silver
+config.logging_config 2023-12-13 17:46:58,754 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Space Black
+config.logging_config 2023-12-13 17:46:58,754 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Blue
+config.logging_config 2023-12-13 17:46:58,754 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Yellow
+config.logging_config 2023-12-13 17:46:58,754 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Silver
+config.logging_config 2023-12-13 17:46:58,754 WARNING No matches to `model_number_pattern` in `title_copy`. Title: 2022  (PRODUCT) RED A2783
+config.logging_config 2023-12-13 17:46:58,755 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Yellow
+config.logging_config 2023-12-13 17:56:00,156 INFO Heading to https://www.foxtrot.com.ua/uk/shop/odessa/mobilnye_telefony_apple.html
+config.logging_config 2023-12-13 17:56:01,801 INFO Status code: 200
+config.logging_config 2023-12-13 17:56:05,352 INFO 'Load more' button is clicked.
+config.logging_config 2023-12-13 17:56:07,444 INFO 'Load more' button is clicked.
+config.logging_config 2023-12-13 17:56:12,775 INFO 'Load more' button is clicked.
+config.logging_config 2023-12-13 17:57:06,494 INFO Heading to https://www.foxtrot.com.ua/uk/shop/odessa/mobilnye_telefony_apple.html
+config.logging_config 2023-12-13 17:57:08,184 INFO Status code: 200
+config.logging_config 2023-12-13 17:57:11,780 INFO 'Load more' button is clicked.
+config.logging_config 2023-12-13 17:57:13,212 INFO 'Load more' button is clicked.
+config.logging_config 2023-12-13 17:57:20,988 WARNING 'Load more' button is not visible. Proceeding.
+config.logging_config 2023-12-13 17:57:23,481 INFO Headless browser was closed.
+config.logging_config 2023-12-13 17:57:23,502 INFO Amount of items parsed: 112
+config.logging_config 2023-12-13 17:57:23,506 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Deep Purple
+config.logging_config 2023-12-13 17:57:23,507 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Purple
+config.logging_config 2023-12-13 17:57:23,508 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Gold
+config.logging_config 2023-12-13 17:57:23,508 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Midnight
+config.logging_config 2023-12-13 17:57:23,509 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Midnight
+config.logging_config 2023-12-13 17:57:23,510 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Purple (APPLE_NEW2022_004)
+config.logging_config 2023-12-13 17:57:23,510 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Starlight
+config.logging_config 2023-12-13 17:57:23,510 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Blue
+config.logging_config 2023-12-13 17:57:23,510 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Blue
+config.logging_config 2023-12-13 17:57:23,511 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Space Black
+config.logging_config 2023-12-13 17:57:23,511 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Gold
+config.logging_config 2023-12-13 17:57:23,511 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Space Black
+config.logging_config 2023-12-13 17:57:23,512 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Starlight
+config.logging_config 2023-12-13 17:57:23,512 WARNING No matches to `model_number_pattern` in `title_copy`. Title: (PRODUCT) RED
+config.logging_config 2023-12-13 17:57:23,512 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Space Black
+config.logging_config 2023-12-13 17:57:23,513 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Deep Purple (APPLE_NEW2022_051)
+config.logging_config 2023-12-13 17:57:23,513 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Blue
+config.logging_config 2023-12-13 17:57:23,513 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Blue
+config.logging_config 2023-12-13 17:57:23,514 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Starlight
+config.logging_config 2023-12-13 17:57:23,514 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Starlight
+config.logging_config 2023-12-13 17:57:23,514 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Starlight
+config.logging_config 2023-12-13 17:57:23,515 WARNING No matches to `model_number_pattern` in `title_copy`. Title: (PRODUCT) RED
+config.logging_config 2023-12-13 17:57:23,515 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Purple
+config.logging_config 2023-12-13 17:57:23,515 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Deep Purple
+config.logging_config 2023-12-13 17:57:23,515 WARNING No matches to `model_number_pattern` in `title_copy`. Title: (PRODUCT) RED
+config.logging_config 2023-12-13 17:57:23,516 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Gold (APPLE_NEW2022_049)
+config.logging_config 2023-12-13 17:57:23,516 WARNING No matches to `model_number_pattern` in `title_copy`. Title: PRODUCT Red (APPLE_NEW2022_001)
+config.logging_config 2023-12-13 17:57:23,516 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Gold
+config.logging_config 2023-12-13 17:57:23,516 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Purple
+config.logging_config 2023-12-13 17:57:23,516 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Deep Purple (APPLE_NEW2022_042)
+config.logging_config 2023-12-13 17:57:23,517 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Deep Purple
+config.logging_config 2023-12-13 17:57:23,517 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Space Black
+config.logging_config 2023-12-13 17:57:23,517 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Gold (APPLE_NEW2022_044)
+config.logging_config 2023-12-13 17:57:23,518 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Gold
+config.logging_config 2023-12-13 17:57:23,518 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Space Black
+config.logging_config 2023-12-13 17:57:23,519 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Purple
+config.logging_config 2023-12-13 17:57:23,519 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Deep Purple
+config.logging_config 2023-12-13 17:57:23,519 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Midnight (APPLE_NEW2022_008)
+config.logging_config 2023-12-13 17:57:23,519 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Gold (APPLE_NEW2022_031)
+config.logging_config 2023-12-13 17:57:23,519 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Silver (APPLE_NEW2022_056)
+config.logging_config 2023-12-13 17:57:23,519 WARNING No matches to `model_number_pattern` in `title_copy`. Title: PRODUCT RED (APPLE_NEW2022_016)
+config.logging_config 2023-12-13 17:57:23,520 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Silver
+config.logging_config 2023-12-13 17:57:23,520 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Space Black
+config.logging_config 2023-12-13 17:57:23,520 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Blue
+config.logging_config 2023-12-13 17:57:23,520 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Yellow
+config.logging_config 2023-12-13 17:57:23,520 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Silver
+config.logging_config 2023-12-13 17:57:23,521 WARNING No matches to `model_number_pattern` in `title_copy`. Title: 2022  (PRODUCT) RED A2783
+config.logging_config 2023-12-13 17:57:23,521 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Yellow
+config.logging_config 2023-12-13 18:05:30,862 INFO Heading to https://eldorado.ua/uk/smartphones/c1038946/producer=apple/
+config.logging_config 2023-12-13 18:05:35,732 INFO Status code: 200
+config.logging_config 2023-12-13 18:05:42,326 WARNING 'Load more' button is not visible. Proceeding.
+config.logging_config 2023-12-13 18:05:43,749 INFO Headless browser was closed.
+config.logging_config 2023-12-13 18:05:43,761 INFO Amount of items parsed: 40
+config.logging_config 2023-12-13 18:07:11,080 INFO Heading to https://eldorado.ua/uk/smartphones/c1038946/producer=apple/
+config.logging_config 2023-12-13 18:07:12,615 INFO Status code: 200
+config.logging_config 2023-12-13 18:07:20,436 WARNING 'Load more' button is not visible. Proceeding.
+config.logging_config 2023-12-13 18:07:20,731 INFO Headless browser was closed.
+config.logging_config 2023-12-13 18:07:20,737 INFO Amount of items parsed: 0
+config.logging_config 2023-12-13 18:07:21,527 INFO Heading to https://www.foxtrot.com.ua/uk/shop/odessa/mobilnye_telefony_apple.html
+config.logging_config 2023-12-13 18:08:05,893 INFO Heading to https://eldorado.ua/uk/smartphones/c1038946/producer=apple/
+config.logging_config 2023-12-13 18:08:08,320 INFO Status code: 200
+config.logging_config 2023-12-13 18:08:17,213 WARNING 'Load more' button is not visible. Proceeding.
+config.logging_config 2023-12-13 18:08:18,522 INFO Headless browser was closed.
+config.logging_config 2023-12-13 18:08:18,532 INFO Amount of items parsed: 40
+config.logging_config 2023-12-13 18:08:19,365 INFO Heading to https://www.foxtrot.com.ua/uk/shop/odessa/mobilnye_telefony_apple.html
+config.logging_config 2023-12-13 18:08:20,515 INFO Status code: 200
+config.logging_config 2023-12-13 18:08:25,168 INFO 'Load more' button is clicked.
+config.logging_config 2023-12-13 18:08:27,286 INFO 'Load more' button is clicked.
+config.logging_config 2023-12-13 18:08:28,376 INFO 'Load more' button is clicked.
+config.logging_config 2023-12-13 18:08:40,029 WARNING 'Load more' button is not visible. Proceeding.
+config.logging_config 2023-12-13 18:08:42,280 INFO Headless browser was closed.
+config.logging_config 2023-12-13 18:08:42,299 INFO Amount of items parsed: 112
+config.logging_config 2023-12-13 18:08:42,300 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Deep Purple
+config.logging_config 2023-12-13 18:08:42,300 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Purple
+config.logging_config 2023-12-13 18:08:42,301 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Gold
+config.logging_config 2023-12-13 18:08:42,301 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Midnight
+config.logging_config 2023-12-13 18:08:42,301 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Midnight
+config.logging_config 2023-12-13 18:08:42,301 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Purple (APPLE_NEW2022_004)
+config.logging_config 2023-12-13 18:08:42,301 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Starlight
+config.logging_config 2023-12-13 18:08:42,301 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Blue
+config.logging_config 2023-12-13 18:08:42,301 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Blue
+config.logging_config 2023-12-13 18:08:42,302 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Space Black
+config.logging_config 2023-12-13 18:08:42,302 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Gold
+config.logging_config 2023-12-13 18:08:42,302 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Space Black
+config.logging_config 2023-12-13 18:08:42,302 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Starlight
+config.logging_config 2023-12-13 18:08:42,302 WARNING No matches to `model_number_pattern` in `title_copy`. Title: (PRODUCT) RED
+config.logging_config 2023-12-13 18:08:42,302 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Space Black
+config.logging_config 2023-12-13 18:08:42,302 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Deep Purple (APPLE_NEW2022_051)
+config.logging_config 2023-12-13 18:08:42,302 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Blue
+config.logging_config 2023-12-13 18:08:42,302 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Blue
+config.logging_config 2023-12-13 18:08:42,303 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Starlight
+config.logging_config 2023-12-13 18:08:42,303 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Starlight
+config.logging_config 2023-12-13 18:08:42,303 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Starlight
+config.logging_config 2023-12-13 18:08:42,304 WARNING No matches to `model_number_pattern` in `title_copy`. Title: (PRODUCT) RED
+config.logging_config 2023-12-13 18:08:42,304 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Purple
+config.logging_config 2023-12-13 18:08:42,304 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Deep Purple
+config.logging_config 2023-12-13 18:08:42,304 WARNING No matches to `model_number_pattern` in `title_copy`. Title: (PRODUCT) RED
+config.logging_config 2023-12-13 18:08:42,304 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Gold (APPLE_NEW2022_049)
+config.logging_config 2023-12-13 18:08:42,304 WARNING No matches to `model_number_pattern` in `title_copy`. Title: PRODUCT Red (APPLE_NEW2022_001)
+config.logging_config 2023-12-13 18:08:42,304 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Gold
+config.logging_config 2023-12-13 18:08:42,304 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Purple
+config.logging_config 2023-12-13 18:08:42,304 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Deep Purple (APPLE_NEW2022_042)
+config.logging_config 2023-12-13 18:08:42,305 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Deep Purple
+config.logging_config 2023-12-13 18:08:42,305 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Space Black
+config.logging_config 2023-12-13 18:08:42,305 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Gold (APPLE_NEW2022_044)
+config.logging_config 2023-12-13 18:08:42,305 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Gold
+config.logging_config 2023-12-13 18:08:42,306 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Space Black
+config.logging_config 2023-12-13 18:08:42,306 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Purple
+config.logging_config 2023-12-13 18:08:42,306 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Deep Purple
+config.logging_config 2023-12-13 18:08:42,306 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Midnight (APPLE_NEW2022_008)
+config.logging_config 2023-12-13 18:08:42,306 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Gold (APPLE_NEW2022_031)
+config.logging_config 2023-12-13 18:08:42,306 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Silver (APPLE_NEW2022_056)
+config.logging_config 2023-12-13 18:08:42,307 WARNING No matches to `model_number_pattern` in `title_copy`. Title: PRODUCT RED (APPLE_NEW2022_016)
+config.logging_config 2023-12-13 18:08:42,307 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Silver
+config.logging_config 2023-12-13 18:08:42,307 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Space Black
+config.logging_config 2023-12-13 18:08:42,307 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Blue
+config.logging_config 2023-12-13 18:08:42,308 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Yellow
+config.logging_config 2023-12-13 18:08:42,308 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Silver
+config.logging_config 2023-12-13 18:08:42,308 WARNING No matches to `model_number_pattern` in `title_copy`. Title: 2022  (PRODUCT) RED A2783
+config.logging_config 2023-12-13 18:08:42,308 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Yellow
+config.logging_config 2023-12-13 18:10:26,783 INFO Heading to https://eldorado.ua/uk/smartphones/c1038946/producer=apple/
+config.logging_config 2023-12-13 18:10:35,491 INFO Status code: 200
+config.logging_config 2023-12-13 18:10:38,644 INFO 'Load more' button is clicked.
+config.logging_config 2023-12-13 18:10:47,810 WARNING 'Load more' button is not visible. Proceeding.
+config.logging_config 2023-12-13 18:10:49,641 INFO Headless browser was closed.
+config.logging_config 2023-12-13 18:10:49,658 INFO Amount of items parsed: 74
+config.logging_config 2023-12-13 18:10:50,506 INFO Heading to https://www.foxtrot.com.ua/uk/shop/odessa/mobilnye_telefony_apple.html
+config.logging_config 2023-12-13 18:10:51,897 INFO Status code: 200
+config.logging_config 2023-12-13 18:10:55,460 INFO 'Load more' button is clicked.
+config.logging_config 2023-12-13 18:10:58,586 INFO 'Load more' button is clicked.
+config.logging_config 2023-12-13 18:11:06,606 WARNING 'Load more' button is not visible. Proceeding.
+config.logging_config 2023-12-13 18:11:08,856 INFO Headless browser was closed.
+config.logging_config 2023-12-13 18:11:08,874 INFO Amount of items parsed: 112
+config.logging_config 2023-12-13 18:11:08,876 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Deep Purple
+config.logging_config 2023-12-13 18:11:08,877 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Purple
+config.logging_config 2023-12-13 18:11:08,877 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Gold
+config.logging_config 2023-12-13 18:11:08,877 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Midnight
+config.logging_config 2023-12-13 18:11:08,878 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Deep Purple
+config.logging_config 2023-12-13 18:11:08,878 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Midnight
+config.logging_config 2023-12-13 18:11:08,879 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Purple (APPLE_NEW2022_004)
+config.logging_config 2023-12-13 18:11:08,879 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Starlight
+config.logging_config 2023-12-13 18:11:08,879 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Blue
+config.logging_config 2023-12-13 18:11:08,879 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Blue
+config.logging_config 2023-12-13 18:11:08,879 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Space Black
+config.logging_config 2023-12-13 18:11:08,880 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Gold
+config.logging_config 2023-12-13 18:11:08,880 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Space Black
+config.logging_config 2023-12-13 18:11:08,880 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Deep Purple (APPLE_NEW2022_051)
+config.logging_config 2023-12-13 18:11:08,880 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Blue
+config.logging_config 2023-12-13 18:11:08,880 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Blue
+config.logging_config 2023-12-13 18:11:08,881 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Starlight
+config.logging_config 2023-12-13 18:11:08,881 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Starlight
+config.logging_config 2023-12-13 18:11:08,881 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Starlight
+config.logging_config 2023-12-13 18:11:08,881 WARNING No matches to `model_number_pattern` in `title_copy`. Title: (PRODUCT) RED
+config.logging_config 2023-12-13 18:11:08,881 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Purple
+config.logging_config 2023-12-13 18:11:08,882 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Deep Purple
+config.logging_config 2023-12-13 18:11:08,882 WARNING No matches to `model_number_pattern` in `title_copy`. Title: (PRODUCT) RED
+config.logging_config 2023-12-13 18:11:08,882 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Gold (APPLE_NEW2022_049)
+config.logging_config 2023-12-13 18:11:08,882 WARNING No matches to `model_number_pattern` in `title_copy`. Title: PRODUCT Red (APPLE_NEW2022_001)
+config.logging_config 2023-12-13 18:11:08,882 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Gold
+config.logging_config 2023-12-13 18:11:08,882 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Purple
+config.logging_config 2023-12-13 18:11:08,882 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Deep Purple (APPLE_NEW2022_042)
+config.logging_config 2023-12-13 18:11:08,883 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Deep Purple
+config.logging_config 2023-12-13 18:11:08,883 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Space Black
+config.logging_config 2023-12-13 18:11:08,884 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Gold (APPLE_NEW2022_044)
+config.logging_config 2023-12-13 18:11:08,884 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Gold
+config.logging_config 2023-12-13 18:11:08,884 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Space Black
+config.logging_config 2023-12-13 18:11:08,884 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Purple
+config.logging_config 2023-12-13 18:11:08,884 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Deep Purple
+config.logging_config 2023-12-13 18:11:08,885 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Midnight (APPLE_NEW2022_008)
+config.logging_config 2023-12-13 18:11:08,885 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Gold (APPLE_NEW2022_031)
+config.logging_config 2023-12-13 18:11:08,885 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Silver (APPLE_NEW2022_056)
+config.logging_config 2023-12-13 18:11:08,885 WARNING No matches to `model_number_pattern` in `title_copy`. Title: PRODUCT RED (APPLE_NEW2022_016)
+config.logging_config 2023-12-13 18:11:08,886 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Silver
+config.logging_config 2023-12-13 18:11:08,886 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Space Black
+config.logging_config 2023-12-13 18:11:08,886 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Blue
+config.logging_config 2023-12-13 18:11:08,886 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Yellow
+config.logging_config 2023-12-13 18:11:08,887 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Silver
+config.logging_config 2023-12-13 18:11:08,887 WARNING No matches to `model_number_pattern` in `title_copy`. Title: 2022  (PRODUCT) RED A2783
+config.logging_config 2023-12-13 18:11:08,887 WARNING No matches to `model_number_pattern` in `title_copy`. Title: Yellow
