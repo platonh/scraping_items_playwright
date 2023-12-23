@@ -9,6 +9,7 @@ def extract_html_body(url, button_selector, popup=None):
     """
     Uses Playwright to load page, navigate to its bottom and click on "Load more" button until all the content is
     rendered and the button is no longer visible. Then scrapes the `body` of HTML and returns it.
+    If popup appears, closes it and proceeds.
     :param url: website url
     :param button_selector: CSS selector of "load more" button
     :param popup: dict with popup's `selector` and `close_button` selector (optionally)
@@ -44,6 +45,7 @@ def extract_html_body(url, button_selector, popup=None):
             except AssertionError:
                 logger.info("Popup window is not visible. Proceeding.")
 
+        # loading content
         while True:
             try:
                 # stay until the page is fully loaded
@@ -66,11 +68,8 @@ def extract_html_body(url, button_selector, popup=None):
                 logger.warning("'Load more' button is not visible. Proceeding.")
                 break
 
-        # capture a screenshot of the page
-        # page.screenshot(path="screenshots/foxtrot.png", full_page=True)
-        # print("Screenshot captured successfully.")
-
-        html = page.inner_html("body")  # we get a fully rendered html from the page
+        # get a fully rendered html from the page
+        html = page.inner_html("body")
 
         context.close()
         browser.close()
