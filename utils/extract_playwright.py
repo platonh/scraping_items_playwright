@@ -3,6 +3,7 @@ from playwright_stealth import stealth_sync
 from random import randint
 from time import sleep
 from config.logging_config import logger
+from fake_useragent import UserAgent
 
 
 def extract_html_body(url, button_selector, popup=None):
@@ -16,17 +17,18 @@ def extract_html_body(url, button_selector, popup=None):
     :return: `body` of HTML as a string
     """
     with sync_playwright() as p:
+        # imitate different user-agents
+        ua = UserAgent().getChrome
+
         browser = p.chromium.launch()
         context = browser.new_context(
-            user_agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Safari/605.1.15",
+            user_agent=ua['useragent'],
             color_scheme=r"light",
             locale=r"en-US,en;q=0.9",
             extra_http_headers={
                 "Accept": "*",
-                "sec-ch-ua": '"Not_A Brand";v="8", "Chromium";v="120"',
-                "sec-ch-ua-arch": 'arm',
-                "sec-ch-ua-platform": 'macOS',
-                "sec-ch-ua-platform-version": '14.1.0'
+                "sec-ch-ua": '"Not_A Brand";v="{}", "Chromium";v="{}"'.format(randint(5, 9), str(int(ua['version']))),
+                "sec-ch-ua-platform": ua['os']
             }
         )
         page = context.new_page()
@@ -37,7 +39,7 @@ def extract_html_body(url, button_selector, popup=None):
         logger.info("Status code: " + str(response.status))
 
         # close popup window
-        if popup is not None:
+        if popup:
             try:
                 expect(page.locator("css={}".format(popup.get("selector")))).to_be_visible()
                 page.locator("css={}".format(popup.get("close_button"))).click()
