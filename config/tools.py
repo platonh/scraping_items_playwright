@@ -2,7 +2,7 @@ import json
 
 _config = {
     "url": "https://www.foxtrot.com.ua/uk/shop/mobilnye_telefony_apple.html",
-    "button_text": "показати ще",
+    "button_selector": "div[class*=\"card card-more\"]",
     "container": {
         "name": "all_items_nodes",
         "selector": 'div[class*="card js-card sc-product isTracked"]',

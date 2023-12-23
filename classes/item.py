@@ -48,8 +48,7 @@ class Item:
                     self.model_number = sub(r"[()]", '', model_number)
                     title_copy = sub(model_number_pattern, '', title_copy).strip()
             except IndexError:
-                # TODO: change debug to warning
-                logger.debug("No matches to `model_number_pattern` in `title_copy`. Title: " + title_copy)
+                logger.warning("No matches to `model_number_pattern` in `title_copy`. Title: " + title_copy)
 
         # extracting color
         if self.color is None:
