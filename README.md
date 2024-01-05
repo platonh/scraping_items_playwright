@@ -1,8 +1,11 @@
 # Introduction
 
 This is a Python project that scrapes data about items from two gadget marketplaces and compares them. 
+
 The goal was to practice data scraping, post-processing, and analysis.
+
 Websites: eldorado.ua, foxtrot.com.ua
+
 Category of items: Apple iPhones
 
 # Project Description
